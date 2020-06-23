@@ -1,0 +1,12 @@
+body
+{
+    background-color:white;
+    color:orange;
+    margin:0;
+}
+
+.gnb_nav{
+    display: flex; 
+    background-color: orange; 
+    padding:15px;
+}

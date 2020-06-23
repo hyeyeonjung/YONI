@@ -1,0 +1,51 @@
+
+body{
+    font-size:2rem;
+    color:white;
+    margin:0;
+    background-color:brown;
+}
+
+.main_logo{
+    display: inline-block;
+    margin-top:10;
+    margin-bottom:10;
+    width:300px;
+    height:300px;
+}
+
+/*div{*/
+    /*text-align:center;*/
+/*    margin-top:100px;*/
+/*    margin-bottom:100px;*/
+/*    box-sizing:bolder;*/
+/*    border:3px solid white;*/
+/*}*/
+
+.header {
+    width: 100%;
+    position: fixed;
+    top:0;
+    border: 1px red solid;
+    height: 300px;
+}
+/*.img,.logo,.home{*/
+/*    float:left;*/
+/*}*/
+
+.main_logo>img{
+    width: 300px;
+    height: 300px;
+}
+
+.home{
+    position: relative;
+}
+
+.main_logo{
+    position: absolute;
+    
+}
+.logo{
+    position: absolute;
+}
